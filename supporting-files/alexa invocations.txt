@@ -1,0 +1,22 @@
+alexa, get XXXXX from Inflation Calc
+alexa, ask XXXXX about Inflation Calc
+alexa, tell XXXXX from Inflation Calc
+alexa, can you....
+alexa, let's...
+alexa, i want to/I wanna
+X_X_X_X_X, please
+alexa, give me..... using Inflation Calc (add give me)
+alexa, tell me.... from Inflation Calc (add tell me)
+alexa, ask Inflation Calc to/about/for/if/whether give me XXX (add give me)
+alexa, ask Inflation Calc XXXXX (ie. how do i convert...)
+alexa, XXXX by/from/in/using/with Inflation Calc
+alexa, ask Inflation Calc XXXXX
+alexa, tell Inflation Calc to/that XXXXX
+alexa, tell Inflation Calc (ie. I want XXX)
+alexa, open Inflation Calc for XXXX
+alexa, open Inflation Calc and (ie. give me) XXX
+alexa, use Inflation Calc and (ie. get...) 
+
+Noun (the XXX for XXX)
+Verb (give me the XXX for XXX)
+Question (what is the XXX for...)

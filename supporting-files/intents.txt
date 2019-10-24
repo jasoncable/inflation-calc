@@ -1,0 +1,122 @@
+{dollars}
+the year {year}
+{dollars} dollars
+{dollars} dollars in {year}
+{dollars} dollars from {year}
+convert {dollars} dollars in {year}
+convert {dollars} dollars from {year}
+convert {dollars} dollars in {year} to current value
+convert {dollars} dollars from {year} to current value
+convert {dollars} dollars in {year} to today's money
+convert {dollars} dollars from {year} to today's money
+calculate {dollars} dollars in {year}
+calculate {dollars} dollars from {year}
+calculate {dollars} dollars in {year} to current value
+calculate {dollars} dollars from {year} to current value
+calculate {dollars} dollars in {year} to today's money
+calculate {dollars} dollars from {year} to today's money
+calculate the inflation {dollars} dollars in {year}
+calculate the inflation {dollars} dollars from {year}
+calculate the inflation {dollars} dollars in {year} to current value
+calculate the inflation {dollars} dollars from {year} to current value
+calculate the inflation {dollars} dollars in {year} to today's money
+calculate the inflation {dollars} dollars from {year} to today's money
+what's {dollars} dollars in {year} worth now
+what is {dollars} dollars in {year} worth now
+what's {dollars} dollars in {year} worth today
+what is {dollars} dollars in {year} worth today
+what is {dollars} dollars in {year} worth
+what's {dollars} dollars in {year} worth
+what's {dollars} dollars in {year}
+what is {dollars} dollars in {year}
+how much is {dollars} {year} dollars worth
+how much is {dollars} dollars in {year} worth
+how much is {dollars} dollars in {year} worth now
+how much is {dollars} dollars in {year} worth today
+me how many {dollars} dollars in {year} is worth today
+me how many {dollars} dollars in {year} is worth now
+me how many {dollars} dollars in {year} is worth
+me how many {dollars} {year} dollars is worth today
+me how many {dollars} {year} dollars is worth now
+me how many {dollars} {year} dollars is worth
+tell me how much is {dollars} {year} dollars worth
+tell me how much is {dollars} dollars in {year} worth
+tell me how much is {dollars} dollars in {year} worth now
+tell me how much is {dollars} dollars in {year} worth today
+tell me how many {dollars} dollars in {year} is worth today
+tell me how many {dollars} dollars in {year} is worth now
+tell me how many {dollars} dollars in {year} is worth
+tell me how many {dollars} {year} dollars is worth today
+tell me how many {dollars} {year} dollars is worth now
+tell me how many {dollars} {year} dollars is worth
+find out how much is {dollars} {year} dollars worth
+find out how much is {dollars} dollars in {year} worth
+find out how much is {dollars} dollars in {year} worth now
+find out how much is {dollars} dollars in {year} worth today
+find out how many {dollars} dollars in {year} is worth today
+find out how many {dollars} dollars in {year} is worth now
+find out how many {dollars} dollars in {year} is worth
+find out how many {dollars} {year} dollars is worth today
+find out how many {dollars} {year} dollars is worth now
+find out how many {dollars} {year} dollars is worth
+the worth of {dollars} dollars in {year}
+the worth of {dollars} dollars from {year}
+the value of {dollars} dollars in {year}
+the value of {dollars} dollars from {year}
+the current worth of {dollars} dollars in {year}
+the current worth of {dollars} dollars from {year}
+the current value of {dollars} dollars in {year}
+the current value of {dollars} dollars from {year}
+give me {dollars} dollars in {year}
+give me {dollars} dollars from {year}
+give me the worth of {dollars} dollars in {year}
+give me the worth of {dollars} dollars from {year}
+give me the value of {dollars} dollars in {year}
+give me the value of {dollars} dollars from {year}
+give me the current worth of {dollars} dollars in {year}
+give me the current worth of {dollars} dollars from {year}
+give me the current value of {dollars} dollars in {year}
+give me the current value of {dollars} dollars from {year}
+get {dollars} dollars in {year}
+get {dollars} dollars from {year}
+get the worth of {dollars} dollars in {year}
+get the worth of {dollars} dollars from {year}
+get the value of {dollars} dollars in {year}
+get the value of {dollars} dollars from {year}
+get the current worth of {dollars} dollars in {year}
+get the current worth of {dollars} dollars from {year}
+get the current value of {dollars} dollars in {year}
+get the current value of {dollars} dollars from {year}
+get me {dollars} dollars in {year}
+get me {dollars} dollars from {year}
+get me the worth of {dollars} dollars in {year}
+get me the worth of {dollars} dollars from {year}
+get me the value of {dollars} dollars in {year}
+get me the value of {dollars} dollars from {year}
+get me the current worth of {dollars} dollars in {year}
+get me the current worth of {dollars} dollars from {year}
+get me the current value of {dollars} dollars in {year}
+get me the current value of {dollars} dollars from {year}
+tell me {dollars} dollars in {year}
+tell me {dollars} dollars from {year}
+tell me the worth of {dollars} dollars in {year}
+tell me the worth of {dollars} dollars from {year}
+tell me the value of {dollars} dollars in {year}
+tell me the value of {dollars} dollars from {year}
+tell me the current worth of {dollars} dollars in {year}
+tell me the current worth of {dollars} dollars from {year}
+tell me the current value of {dollars} dollars in {year}
+tell me the current value of {dollars} dollars from {year}
+how do i convert {year} dollars to current value
+how do i convert {year} dollars to today's money
+how do i convert {year} dollars
+how do i convert {dollars} dollars in {year}
+how do i convert {dollars} dollars from {year}
+what's the current value of {dollars} dollars from {year}
+what's the current value of {dollars} dollars in {year}
+what's today's value of {dollars} dollars from {year}
+what's today's value of {dollars} dollars in {year}
+i want the current value of {dollars} dollars from {year}
+i want the current value of {dollars} dollars in {year}
+i want the worth of {dollars} dollars in {year}
+i want the worth of {dollars} dollars from {year}

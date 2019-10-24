@@ -328,3 +328,7 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# JLC added
+aws-lambda-tools-defaults.json
+.lambda-test-tool/
